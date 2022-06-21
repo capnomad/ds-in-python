@@ -1,5 +1,4 @@
-# ds-python
-Basic Data Structures in Python
+# Basic Data Structures in Python
 * Linked List
   * Singly LinkedList
   * Doubly LinkedList 
