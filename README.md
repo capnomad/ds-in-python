@@ -1,6 +1,6 @@
 # Basic Data Structures in Python
 * Linked List
-  * Singly LinkedList
-  * Doubly LinkedList 
+  * Singly Linked List
+  * Doubly Linked List 
 * Stack
 * Queue
