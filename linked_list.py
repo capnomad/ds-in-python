@@ -11,7 +11,7 @@ class LinkedList:
         self.head = None
 
     def __str__(self) -> str:
-        return ' -> '.join([str(node) for node in self])
+        return "(head)"+' -> '.join([str(node) for node in self]) + " --> " + u"\u2022"
 
     def __len__(self):
         count = 0
